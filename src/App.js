@@ -15,7 +15,7 @@ function App() {
   };
   return (
     <div className="container">
-      <h1>DevProjects Link Shortener</h1>
+      <h1>Link Shortener</h1>
       <form>
         <div className="form">
           <div className="forminput">
